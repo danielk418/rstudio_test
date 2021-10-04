@@ -1,0 +1,13 @@
+name: github_test
+title: github_test
+username: danielke
+account: danielke
+server: erasersc201p.era.nih.gov
+hostUrl: https://erasersc201p.era.nih.gov/__api__
+appId: 132
+bundleId: 244
+url: https://erasersc201p.era.nih.gov:443/content/6503309d-d639-417b-a7d7-4988ea6925b9/
+when: 1633319365.90677
+lastSyncTime: 1633319365.90677
+asMultiple: FALSE
+asStatic: FALSE
